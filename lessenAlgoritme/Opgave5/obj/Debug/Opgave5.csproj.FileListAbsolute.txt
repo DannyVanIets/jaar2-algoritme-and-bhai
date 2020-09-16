@@ -1,0 +1,7 @@
+D:\code\visual studio\lessenAlgoritme\Opgave5\bin\Debug\Opgave5.exe.config
+D:\code\visual studio\lessenAlgoritme\Opgave5\bin\Debug\Opgave5.exe
+D:\code\visual studio\lessenAlgoritme\Opgave5\bin\Debug\Opgave5.pdb
+D:\code\visual studio\lessenAlgoritme\Opgave5\obj\Debug\Opgave5.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessenAlgoritme\Opgave5\obj\Debug\Opgave5.exe
+D:\code\visual studio\lessenAlgoritme\Opgave5\obj\Debug\Opgave5.pdb
+D:\code\visual studio\lessenAlgoritme\Opgave5\obj\Debug\Opgave5.csprojAssemblyReference.cache

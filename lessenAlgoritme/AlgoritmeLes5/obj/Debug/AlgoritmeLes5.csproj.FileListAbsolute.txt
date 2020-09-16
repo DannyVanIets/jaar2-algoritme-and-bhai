@@ -1,0 +1,6 @@
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\bin\Debug\AlgoritmeLes5.exe.config
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\bin\Debug\AlgoritmeLes5.exe
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\bin\Debug\AlgoritmeLes5.pdb
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\obj\Debug\AlgoritmeLes5.csprojAssemblyReference.cache
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\obj\Debug\AlgoritmeLes5.exe
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes5\obj\Debug\AlgoritmeLes5.pdb

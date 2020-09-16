@@ -1,0 +1,6 @@
+D:\code\visual studio\lessenAlgoritme\Queue\bin\Debug\Queue.exe.config
+D:\code\visual studio\lessenAlgoritme\Queue\bin\Debug\Queue.exe
+D:\code\visual studio\lessenAlgoritme\Queue\bin\Debug\Queue.pdb
+D:\code\visual studio\lessenAlgoritme\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\code\visual studio\lessenAlgoritme\Queue\obj\Debug\Queue.exe
+D:\code\visual studio\lessenAlgoritme\Queue\obj\Debug\Queue.pdb

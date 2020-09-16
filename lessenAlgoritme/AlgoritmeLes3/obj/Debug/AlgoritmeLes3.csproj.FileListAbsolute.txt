@@ -1,0 +1,7 @@
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\bin\Debug\AlgoritmeLes3.exe.config
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\bin\Debug\AlgoritmeLes3.exe
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\bin\Debug\AlgoritmeLes3.pdb
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\obj\Debug\AlgoritmeLes3.csprojAssemblyReference.cache
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\obj\Debug\AlgoritmeLes3.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\obj\Debug\AlgoritmeLes3.exe
+D:\code\visual studio\lessenAlgoritme\AlgoritmeLes3\obj\Debug\AlgoritmeLes3.pdb

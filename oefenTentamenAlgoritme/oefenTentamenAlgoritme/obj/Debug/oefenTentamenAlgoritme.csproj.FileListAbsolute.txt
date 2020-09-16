@@ -1,0 +1,6 @@
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\bin\Debug\oefenTentamenAlgoritme.exe.config
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\bin\Debug\oefenTentamenAlgoritme.exe
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\bin\Debug\oefenTentamenAlgoritme.pdb
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\obj\Debug\oefenTentamenAlgoritme.csprojAssemblyReference.cache
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\obj\Debug\oefenTentamenAlgoritme.exe
+D:\code\visual studio\oefenTentamenAlgoritme\oefenTentamenAlgoritme\obj\Debug\oefenTentamenAlgoritme.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\bin\Debug\HuiswerkAlgoritmeLes1.exe.config
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\bin\Debug\HuiswerkAlgoritmeLes1.exe
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\bin\Debug\HuiswerkAlgoritmeLes1.pdb
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\obj\Debug\HuiswerkAlgoritmeLes1.csprojAssemblyReference.cache
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\obj\Debug\HuiswerkAlgoritmeLes1.csproj.CoreCompileInputs.cache
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\obj\Debug\HuiswerkAlgoritmeLes1.exe
+D:\code\visual studio\huiswerkAlgoritme\HuiswerkAlgoritmeLes1\obj\Debug\HuiswerkAlgoritmeLes1.pdb

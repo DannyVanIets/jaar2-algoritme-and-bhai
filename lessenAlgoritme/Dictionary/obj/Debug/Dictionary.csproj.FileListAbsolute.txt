@@ -1,0 +1,5 @@
+D:\code\visual studio\lessenAlgoritme\Dictionary\bin\Debug\Dictionary.exe.config
+D:\code\visual studio\lessenAlgoritme\Dictionary\bin\Debug\Dictionary.exe
+D:\code\visual studio\lessenAlgoritme\Dictionary\bin\Debug\Dictionary.pdb
+D:\code\visual studio\lessenAlgoritme\Dictionary\obj\Debug\Dictionary.exe
+D:\code\visual studio\lessenAlgoritme\Dictionary\obj\Debug\Dictionary.pdb

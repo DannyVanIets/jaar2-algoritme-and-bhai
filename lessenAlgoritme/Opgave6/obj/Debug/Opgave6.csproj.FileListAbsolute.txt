@@ -1,0 +1,6 @@
+D:\code\visual studio\lessenAlgoritme\Opgave6\bin\Debug\Opgave6.exe.config
+D:\code\visual studio\lessenAlgoritme\Opgave6\bin\Debug\Opgave6.exe
+D:\code\visual studio\lessenAlgoritme\Opgave6\bin\Debug\Opgave6.pdb
+D:\code\visual studio\lessenAlgoritme\Opgave6\obj\Debug\Opgave6.csprojAssemblyReference.cache
+D:\code\visual studio\lessenAlgoritme\Opgave6\obj\Debug\Opgave6.exe
+D:\code\visual studio\lessenAlgoritme\Opgave6\obj\Debug\Opgave6.pdb

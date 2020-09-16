@@ -1,0 +1,6 @@
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\bin\Debug\OefenenAlgoritme.exe.config
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\bin\Debug\OefenenAlgoritme.exe
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\bin\Debug\OefenenAlgoritme.pdb
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\obj\Debug\OefenenAlgoritme.csprojAssemblyReference.cache
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\obj\Debug\OefenenAlgoritme.exe
+D:\code\visual studio\oefenenAlgoritme\OefenenAlgoritme\obj\Debug\OefenenAlgoritme.pdb

@@ -1,0 +1,5 @@
+D:\code\visual studio\oefenenAlgoritme\Les5\bin\Debug\Les5.exe.config
+D:\code\visual studio\oefenenAlgoritme\Les5\bin\Debug\Les5.exe
+D:\code\visual studio\oefenenAlgoritme\Les5\bin\Debug\Les5.pdb
+D:\code\visual studio\oefenenAlgoritme\Les5\obj\Debug\Les5.exe
+D:\code\visual studio\oefenenAlgoritme\Les5\obj\Debug\Les5.pdb
